@@ -178,7 +178,7 @@ class Home extends React.Component<{},{}> {
                   <div className='text-lg md:text-36 font-medium'>
                     <Link href={'#'}>
                       <a className='hover:text-amber-500' onClick={()=>sendEmail()}>
-                        <div className=''>liliyaogerenko@gmail.com/div>                
+                        <div className=''>liliyaogerenko@gmail.com</div>                
                       </a>
                     </Link>
                 </div>
